@@ -9,4 +9,5 @@ async function fetchData<T>(url: string): Promise<T> {
     }
 }
 
+console.log(fetchData)
 
